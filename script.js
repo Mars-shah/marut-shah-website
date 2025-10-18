@@ -1,6 +1,6 @@
 const typedText = document.getElementById("typed-text");
 
-const words = ["Developer", "Designer", "Passionate", "Problem-Solver","Open-minded"];
+const words = ["Developer", "Designer", "Detail-oriented", "Problem-Solver","Open-minded"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
