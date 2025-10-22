@@ -62,7 +62,7 @@ h2 {
 
 h3 {
   line-height: 1.6;
-  color: #fff5ab;
+  animation: color-changer 60s linear infinite;
   font-size: 25px;
   font-weight: bold;
 }
